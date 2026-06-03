@@ -247,16 +247,15 @@ User Query
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 > _Screenshots are saved in the `screenshots/` folder after running the application._
 
-### Chatbot Interface
+#### Chatbot Interface
 ![Chatbot UI](screenshots/chatbot_ui.png)
 
-
-### Response Display
-![Response Display](screenshots/confidence_score.png)
+#### Bot Response & Confidence Score
+![Bot Response](screenshots/response_bot.png)
 
 ---
 
