@@ -304,7 +304,7 @@ This project was developed as **Task 1 – FAQ Chatbot** during the **Artificial
 | 📌 Internship Domain | Artificial Intelligence |
 | 📁 Task | FAQ Chatbot |
 | 🛠️ Tech Stack | Python, Streamlit, NLTK, Scikit-learn |
-| 📅 Year | 2024–2025 |
+| 📅 Year | 2026 |
 
 > *CodeAlpha is a leading tech internship platform providing hands-on experience in AI, Machine Learning, Web Development, and more.*
 
@@ -317,7 +317,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2025 CodeAlpha Intern
+Copyright (c) 2026 Subhajit Roy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
