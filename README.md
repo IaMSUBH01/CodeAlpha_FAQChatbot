@@ -255,11 +255,9 @@ User Query
 ### Chatbot Interface
 ![Chatbot UI](screenshots/chatbot_ui.png)
 
-### Sidebar with Statistics
-![Sidebar](screenshots/sidebar.png)
 
-### Confidence Score Display
-![Confidence Score](screenshots/confidence_score.png)
+### Response Display
+![Response Display](screenshots/confidence_score.png)
 
 ---
 
