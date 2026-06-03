@@ -1,0 +1,23 @@
+# ============================================================
+# FAQ Chatbot - Requirements
+# CodeAlpha Internship Project
+# Compatible with Python 3.11 – 3.14
+# ============================================================
+
+# Core Web Framework
+streamlit>=1.35.0
+
+# NLP Libraries
+nltk>=3.8.1
+
+# Machine Learning & Vectorization
+scikit-learn>=1.4.2
+
+# Numerical Computing
+numpy>=1.26.4
+
+# Data Handling
+pandas>=2.2.2
+
+# Utility
+python-dotenv>=1.0.1
