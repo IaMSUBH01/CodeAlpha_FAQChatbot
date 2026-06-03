@@ -120,8 +120,7 @@ CodeAlpha_FAQChatbot/
 │
 ├── screenshots/            # App screenshots for README
 │   ├── chatbot_ui.png
-│   ├── sidebar.png
-│   └── confidence_score.png
+│   └── response_bot.png
 │
 └── assets/                 # Static assets (icons, branding)
 ```
